@@ -13,3 +13,5 @@ cp "/home/kristian/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps
 cp "/home/kristian/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/Team Fortress 2/tf/cfg/aliasoverride_engie.cfg" ./
 cp "/home/kristian/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/Team Fortress 2/tf/cfg/passtime.cfg" ./
 cp -r "/home/kristian/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/Team Fortress 2/tf/cfg/overrides/" ./
+cp "/home/kristian/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/Team Fortress 2/tf/custom/Flawhud_custom.txt" ./
+cp "/home/kristian/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/Team Fortress 2/tf/custom/custom.sh" ./
