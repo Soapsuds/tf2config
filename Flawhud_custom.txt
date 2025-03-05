@@ -15,3 +15,10 @@ edit flawhud/scripts/hudlayout.res and replace huddamangeindicator with this.
 		"MaximumHeight"			"25"
 		"MinimumTime"			"1"
 	}
+
+Passtime:
+https://github.com/p4sstime/p4sstime/tree/main/%5BClient%20Mods%5D#custom-hud--file-exists-changing-labels
+
+edit HudPasstimeBallStatus.res and change ProgressBallCarrierName's Tall value from f0 to 0
+edit HudPasstimeBallStatus.res and change EventBonusLabel's Tall value to 0
+edit HudPasstimeBallStatus.res and change BallPowerCluster's Tall value to 0
